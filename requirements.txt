@@ -1,3 +1,7 @@
 flask
 pytest
 pytest-pylint
+flask-migrate
+faker
+alembic
+sqlalchemy
